@@ -101,10 +101,10 @@ heart-disease-ml/
 ---
 
 ## 👥 Ekip
-| İsim | Rol |
+| İsim | Öğrenci No | Rol |
 |---|---|
-| [Senin adın] | Veri mühendisliği, model geliştirme |
-| [Kız arkadaşının adın] | Dokümantasyon, analiz |
+| Mehmet Emin Dinçsoy | 33253304001 | Veri İşlemesi, model geliştirme |
+| Ezgi Boztepe | 33253304001 | Veri İşlemesi, Dokümantasyon, analiz |
 
 ---
 
