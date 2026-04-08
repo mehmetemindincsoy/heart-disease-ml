@@ -102,7 +102,7 @@ heart-disease-ml/
 
 ## 👥 Ekip
 | İsim | Öğrenci No | Rol |
-|---|---|
+|---|---|---|
 | Mehmet Emin Dinçsoy | 33253304001 | Veri İşlemesi, model geliştirme |
 | Ezgi Boztepe | 33253304001 | Veri İşlemesi, Dokümantasyon, analiz |
 
