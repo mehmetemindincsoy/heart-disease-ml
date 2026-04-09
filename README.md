@@ -1,9 +1,7 @@
 🫀 Kalp Hastalığı Risk Tahmin Modeli
 > İki farklı coğrafyadan elde edilen verilerle makine öğrenmesi tabanlı kalp hastalığı erken teşhis sistemi
 
-![Python](https://img.shields.io/badge/Python-3.14-blue)
 ![Status](https://img.shields.io/badge/Durum-Geliştiriliyor-yellow)
-![License](https://img.shields.io/badge/Lisans-MIT-green)
 
 ---
 
@@ -23,18 +21,18 @@ Kalp hastalıkları dünya genelinde en büyük ölüm nedenidir. Bu proje, teme
 ---
 
 ## 🔍 Veri Seti Özellikleri
-| Sütun | Açıklama | Tür |
+| Sütun | Açıklama |
 |---|---|---|
-| `age` | Yaş | Sayısal |
-| `gender` | Cinsiyet (1=Kadın, 2=Erkek) | Kategorik |
-| `blood_pressure` | Yüksek tansiyon (0/1) | Binary |
-| `cholesterol` | Yüksek kolesterol (0/1) | Binary |
-| `smoking` | Sigara kullanımı (0/1) | Binary |
-| `alcohol` | Alkol kullanımı (0/1) | Binary |
-| `active` | Fiziksel aktivite (0/1) | Binary |
+| `age` | Yaş |
+| `gender` | Cinsiyet (1=Kadın, 2=Erkek) |
+| `blood_pressure` | Yüksek tansiyon (0/1) |
+| `cholesterol` | Yüksek kolesterol (0/1) |
+| `smoking` | Sigara kullanımı (0/1) |
+| `alcohol` | Alkol kullanımı (0/1) |
+| `active` | Fiziksel aktivite (0/1) |
 | `bmi` | Vücut kitle indeksi | Sayısal |
-| `heart_disease` | Kalp hastalığı (0=Yok, 1=Var) | Hedef |
-| `source` | Veri kaynağı | Kategorik |
+| `heart_disease` | Kalp hastalığı (0=Yok, 1=Var) |
+| `source` | Veri kaynağı |
 
 ---
 
@@ -57,19 +55,19 @@ Kalp hastalıkları dünya genelinde en büyük ölüm nedenidir. Bu proje, teme
 - [x] Veri birleştirme ve standartlaştırma
 - [x] Keşifsel veri analizi (EDA)
 - [x] Görselleştirme
-- [ ] Model kurma (Random Forest, Karar Ağacı, Lojistik Regresyon)
-- [ ] Model değerlendirme (Accuracy, F1, Precision, Recall)
+- [ ] Model kurma
+- [ ] Model değerlendirme
 - [ ] Tek kaynak vs çok kaynak karşılaştırması
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+## 🛠️ Kullanılan Kütüphaneler
 ```python
 pandas       # Veri işleme
 numpy        # Matematiksel işlemler  
 matplotlib   # Görselleştirme
 seaborn      # Gelişmiş görselleştirme
-scikit-learn # Model kurma (finale)
+scikit-learn # Model kurma
 ```
 
 ## ⚙️ Kurulum
@@ -103,12 +101,7 @@ heart-disease-ml/
 ## 👥 Ekip
 | İsim | Öğrenci No | Rol |
 |---|---|---|
-| Mehmet Emin Dinçsoy | 33253304001 | Veri İşlemesi, model geliştirme |
+| Mehmet Emin Dinçsoy | 33253304001 | Veri İşlemesi, Model geliştirme |
 | Ezgi Boztepe | 33253304003 | Veri İşlemesi, Dokümantasyon, analiz |
 
 ---
-
-## 📚 Kaynaklar
-- [Cardiovascular Disease Dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
-- [Heart Disease Health Indicators Dataset](https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset)
-- [Scikit-learn Dokümantasyonu](https://scikit-learn.org)
