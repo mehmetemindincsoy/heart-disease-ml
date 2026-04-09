@@ -22,7 +22,7 @@ Kalp hastalıkları dünya genelinde en büyük ölüm nedenidir. Bu proje, teme
 
 ## 🔍 Veri Seti Özellikleri
 | Sütun | Açıklama |
-|---|---|---|
+|---|---|
 | `age` | Yaş |
 | `gender` | Cinsiyet (1=Kadın, 2=Erkek) |
 | `blood_pressure` | Yüksek tansiyon (0/1) |
