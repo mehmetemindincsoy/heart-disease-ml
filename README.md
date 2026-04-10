@@ -104,4 +104,6 @@ heart-disease-ml/
 | Mehmet Emin Dinçsoy | 33253304001 | Veri İşlemesi, Model geliştirme |
 | Ezgi Boztepe | 33253304003 | Veri İşlemesi, Dokümantasyon, analiz |
 
+## 🏅 Yarışma Başvurusu
+![GitHub Logo](https://github.com/user-attachments/assets/31829289-6fba-4a2f-ac40-8db3cc33f099)
 ---
