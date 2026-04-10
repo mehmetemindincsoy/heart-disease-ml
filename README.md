@@ -106,5 +106,4 @@ heart-disease-ml/
 
 ## 🏅 Yarışma Başvurusu
 ![GitHub Logo](https://github.com/user-attachments/assets/31829289-6fba-4a2f-ac40-8db3cc33f099)
-[![Ekran GÖrüntüsü](https://github.com/user-attachments/assets/31829289-6fba-4a2f-ac40-8db3cc33f099)]([Gidilecek_Sayfa_Linki](https://github.com/user-attachments/assets/31829289-6fba-4a2f-ac40-8db3cc33f099))
 ---
